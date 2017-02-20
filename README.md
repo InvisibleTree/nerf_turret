@@ -5,10 +5,10 @@ This repository contains purely arduino code in C for the control of motors, ser
 
 ##Goals
 - [x] Get manual control working
-- [ ] Mount gun to lazy susan
-  - [ ] Order lazy susan
-  - [ ] Buy wood
-  - [ ] Construct mount
+- [x] Mount gun to lazy susan
+  - [x] Order lazy susan
+  - [x] Buy wood
+  - [x] Construct mount
 - [ ] Implement ultrasonic personel tracking algorithm
   - [x] Order ultrasonic modules
   - [ ] Write algorithm
